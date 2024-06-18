@@ -9,7 +9,7 @@ I am passionate about continuous learning and excited to explore new technologie
 
 🔧 **Technical Skills:**
 
-Languages             : C, Ja
+Languages             : C, Java
 
 Front-End             : HTML, CSS, JavaScript
 
