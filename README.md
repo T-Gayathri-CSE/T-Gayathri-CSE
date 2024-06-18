@@ -17,7 +17,7 @@ Back-End              : Laravel, PHP
 
 Database              : MySQL
 
-UI/UX Design          : Figma, Canva
+UI/UX Design          : ![189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f](https://github.com/T-Gayathri-CSE/T-Gayathri-CSE/assets/173170258/242d24ed-fed8-4a3b-9207-d6035663bd90), Canva
 
 Version Control       : Git, GitHub
 
