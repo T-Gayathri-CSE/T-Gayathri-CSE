@@ -1,6 +1,7 @@
 ![Developer](banner.png)
 
 **Full Stack Developer & UI/UX Enthusiast | BE in Computer Science | Passionate Learner**
+
 As a Full Stack Developer and UI/UX Designer with a BE in Computer Science, I am dedicated to crafting seamless user experiences and robust applications. 
 My goal is to leverage my skills in both front-end and back-end development to contribute to innovative projects. 
 I am passionate about continuous learning and excited to explore new technologies that push the boundaries of what's possible in the tech world.!
