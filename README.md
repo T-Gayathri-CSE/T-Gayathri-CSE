@@ -9,9 +9,9 @@ I am passionate about continuous learning and excited to explore new technologie
 
 🔧 **Technical Skills:**
 
-Languages             : C, Java
+Languages             : [C](https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png), [Java](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 
-Front-End             : ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/T-Gayathri-CSE/T-Gayathri-CSE/assets/173170258/5dcd5860-369d-4e6a-bd51-0c17012dad6b), CSS, JavaScript
+Front-End             : https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png, [CSS](https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png), [JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
 
 Back-End              : Laravel, PHP
 
