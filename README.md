@@ -30,12 +30,17 @@ I am passionate about continuous learning and excited to explore new technologie
 	</table>
 </div>
 
+**💼 Work Experience**
+
+|| Developer intern at Webmize, Chennai, Tamilnadu, India.
+|| Developer intern at Exposys Data Labs, Bangaluru, India.
+
 💡 **What I Bring to the Table:**
 
-Full Stack Expertise: Ability to design, develop, and maintain comprehensive web applications.
-UI/UX Focus: Passionate about creating intuitive and aesthetically pleasing user interfaces.
-Continuous Learning: Committed to staying updated with the latest trends and technologies in the industry.
-Problem-Solving: Adept at tackling complex challenges and finding innovative solutions.
+|| Full Stack Expertise: Ability to design, develop, and maintain comprehensive web applications.
+|| UI/UX Focus: Passionate about creating intuitive and aesthetically pleasing user interfaces.
+|| Continuous Learning: Committed to staying updated with the latest trends and technologies in the industry.
+|| Problem-Solving: Adept at tackling complex challenges and finding innovative solutions.
 
 🚀 **Current Interests:**
 
