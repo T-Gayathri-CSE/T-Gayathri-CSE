@@ -1,4 +1,4 @@
-(banner.png)
+![Developer](banner.png)
 
 **Full Stack Developer & UI/UX Enthusiast | BE in Computer Science | Passionate Learner**
 As a Full Stack Developer and UI/UX Designer with a BE in Computer Science, I am dedicated to crafting seamless user experiences and robust applications. 
