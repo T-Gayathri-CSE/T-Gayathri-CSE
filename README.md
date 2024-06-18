@@ -9,19 +9,19 @@ I am passionate about continuous learning and excited to explore new technologie
 
 🔧 **Technical Skills:**
 
-Languages: C, Ja
+Languages             : C, Ja
 
-Front-End: HTML, CSS, JavaScript
+Front-End             : HTML, CSS, JavaScript
 
-Back-End: Laravel, PHP
+Back-End              : Laravel, PHP
 
-Database: MySQL
+Database              : MySQL
 
-UI/UX Design: Figma, Canva
+UI/UX Design          : Figma, Canva
 
-Version Control: Git, GitHub
+Version Control       : Git, GitHub
 
-Others: Visual Studio Code, Microsoft Word, Microsoft PowerPoint, Pycharm IDE
+Others                : Visual Studio Code, Microsoft Word, Microsoft PowerPoint, Pycharm IDE
 
 💡 **What I Bring to the Table:**
 
