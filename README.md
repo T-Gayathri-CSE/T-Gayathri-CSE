@@ -31,8 +31,6 @@ I am passionate about continuous learning and excited to explore new technologie
 
 **💼 Work Experience**
 
-|| Developer intern at Webmize, Chennai, Tamilnadu, India.
-
 || Developer intern at Exposys Data Labs, Bangaluru, India.
 
 💡 **What I Bring to the Table:**
